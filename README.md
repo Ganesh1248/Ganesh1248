@@ -27,6 +27,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh1248&show_icons=true&locale=en" alt="ganesh1248" />
 
 <!-- Streak Stats -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh1248&" alt="ganesh1248" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh1248" alt="ganesh1248" />
 
 
