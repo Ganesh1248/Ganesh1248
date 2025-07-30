@@ -26,9 +26,6 @@
 <!-- Main Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh1248&show_icons=true&theme=default" />
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh1248&theme=radical" alt="ganesh1248 streak stats" />
-</p>
+
 
 
