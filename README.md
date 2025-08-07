@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh1248&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh1248" /> </p>
 
-- 🔭 I’m currently working on **Zerodha Clone**
+- 🔭 I’m currently working on **Zerodha Inspired Trading Platform**
 
 - 🌱 I’m currently learning **Type Script**
 
